@@ -1,0 +1,29 @@
+# FR : Secrets et session Telegram — JAMAIS commités.
+# EN : Secrets and Telegram session — NEVER committed.
+.env
+*.session*
+
+# FR : Environnement virtuel.
+# EN : Virtual environment.
+.venv/
+
+# FR : État persistant (mode_absent) et fichier temporaire d'écriture atomique.
+# EN : Persistent state (mode_absent) and atomic-write temp file.
+data/state.json
+data/*.tmp
+
+# FR : Logs (contiennent des IDs, jamais commités).
+#      + bot.log à la racine (stdout du service systemd telegram-autoreply).
+# EN : Logs (contain IDs, never committed).
+#      + root bot.log (telegram-autoreply systemd service stdout).
+logs/
+bot.log*
+
+# FR : Cache Python.
+# EN : Python cache.
+__pycache__/
+
+# FR : Notes de passation IA (contiennent des infos perso : pseudo, chemins).
+# EN : AI handoff notes (contain personal info: usernames, paths).
+HANDOFF_IA.md
+*_HANDOFF*.md

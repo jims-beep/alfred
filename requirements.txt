@@ -1,0 +1,16 @@
+# =============================================================================
+# FR : Liste des dépendances Python nécessaires au projet.
+# EN : Python dependencies required by the project.
+# =============================================================================
+
+# FR : Telethon = bibliothèque Python pour interagir avec l'API Telegram en
+#      tant que compte utilisateur (userbot). À installer via pip.
+# EN : Telethon = Python library to interact with the Telegram API as a user
+#      account (userbot). Install with pip.
+telethon>=1.36.0
+
+# FR : python-dotenv charge automatiquement les variables du fichier .env dans
+#      l'environnement Python, pour ne pas coder les secrets en dur.
+# EN : python-dotenv automatically loads variables from the .env file into the
+#      Python environment, so secrets are not hardcoded.
+python-dotenv>=1.0.0

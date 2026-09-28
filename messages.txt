@@ -1,0 +1,18 @@
+# FR : Fichier des messages aléatoires envoyés par le bot en légende de l'image.
+#      Un message par ligne, sans "#" au début (les # sont des commentaires).
+# EN : Random messages sent by the bot as the image caption. One per line.
+#      Lines starting with "#" are comments and ignored.
+
+# ----- Messages naturels / humains -----------------------------------------
+Désolé, je suis sur autre chose là, je te réponds dès que je peux 🙏
+Salut ! Pas dispo tout de suite, mais j'ai bien vu ton message 👀
+Coucou, je reviens vers toi dans pas longtemps, laisse-moi ton truc ✌️
+Hey, je suis un peu pris, je te ping dès que je lâche ça 💻
+Ouais j'ai reçu, je regarde ça ce soir et je t'écris 🌙
+Ah ouai, d'accord — je suis pas devant mon tel, je te dis ça plus tard 🙏
+Merci pour le message ! Je suis occupé mais je reviens vite 🚀
+Salut, je file un truc là, on se cale ça dès que je suis libre ✨
+Pas dispo là tout de suite, mais ça n'attend pas hein, jete-moi un message 📩
+Hey, laisse-moi 2 min je reviens, je vois ton message 👍
+D'accord, reçu ! Je te réponds bien quand je pose tout ça 💬
+Coucou, je suis ailleurs pour l'instant, je te calle ça après 🕒
